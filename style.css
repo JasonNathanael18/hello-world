@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    background-color: yellow;
+}
+
+.text-blue{
+    color: blue;
+    font-size: 19px;
+}
+
+.text-green{
+    color: green;
+    font-size: 16px;
+}
+
+#national{
+    color: red;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.alert-primary{
+    color: white;
+    background-color: orange;
+    font-size: larger;
+}
